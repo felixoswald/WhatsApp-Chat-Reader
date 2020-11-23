@@ -1,13 +1,8 @@
 # WhatsApp-Chat-Reader
 
-![alt text](grafik.png)
+![image](https://user-images.githubusercontent.com/52625423/100009834-aa164b00-2dcf-11eb-8c31-4f0765c0b402.png)
 
-1. Chat per E-Mail versenden
-2. Zip-Datei entpacken und in das gleiche Verzeichnis legen
-3. $file, $leftname, $rightname in read.php bearbeiten
-4. Webseite aufrufen
-
-
-Info für Deutsche NutzerInnen (Update 08.01.2020):
-WhatsApp musste aufgrund eines Patents von Blackberry die "Chat exportieren" Funktion deaktivieren.
-Aktuell gibt es diese nur noch eingeschränkt innerhalb des Chats im 3-Punkte-Menü
+1. send chat via email
+2. unzip the file into the same directory
+3. edit $file, $leftname, $rightname in read.php
+4. open website
